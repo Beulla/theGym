@@ -147,3 +147,17 @@ i{
     background-color: white;
     z-index: 1;
 }
+.div9{
+    margin-top: -20em;
+}
+.svg2{
+    width: 2em;
+    height: 2em;
+    margin: auto;
+    margin-right: 3em;
+}
+.divs{
+    display: flex;
+    width: 100%;
+    padding-top: 2em;
+}
