@@ -117,3 +117,10 @@ i{
 #holiday{
     margin-top: 6em;
 }
+.div5{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 1fr; 
+    gap: 16px; 
+    margin-top: 7em;
+}
