@@ -124,3 +124,26 @@ i{
     gap: 16px; 
     margin-top: 7em;
 }
+.div6{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 1fr;
+    gap: 16px;
+    margin-top: 5em;
+}
+.svg{
+    width: 2em;
+    height: 2em;
+}
+.div7{
+    margin-top: 5em;
+}
+.div8{
+    position: relative;
+    top: -28em;
+    width: 30%;
+    padding: 2em;
+    margin-left: 3em;
+    background-color: white;
+    z-index: 1;
+}
